@@ -1,0 +1,21 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <!-- Custom fonts for this template -->
+  <link href="{{ "/assets/vendor/font-awesome/css/font-awesome.min.css" | relative_url }}" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <!-- Bootstrap core JavaScript -->
+  <script src="{{ "/assets/vendor/jquery/jquery.min.js" | relative_url }}"></script>
+  <script src="{{ "/assets/vendor/jquery.timeago.js" | relative_url }}"></script>
+  <script src="{{ "/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" | relative_url }}"></script>
+  <!-- Custom scripts for this template -->
+  <script src="{{ "/assets/js/clean-blog.js" | relative_url }}"></script>
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+</head>

@@ -1,0 +1,22 @@
+#mainNav {
+    @include media-breakpoint-up(md) {
+        display: none;
+    }
+}
+.sidebar {
+    @extend .position-fixed;
+    background-image: url('/img/home-bg.jpg');
+    height: 100vh;
+    width: 400px;
+    opacity: 0.9;
+    background-color: black;
+    @include media-breakpoint-down(md) {
+        display: none;
+    }
+}
+.content {
+    margin-left: 400px;
+    @include media-breakpoint-down(md) {
+        margin-left: 0;
+    }
+}
