@@ -5,7 +5,7 @@ date: 2015-09-05
 layout: post
 ---
 
-![](http://www.modernman.com/wp-content/uploads/2012/08/headphones5101.jpg)
+![](http://www.modernman.com/wp-content/uploads/2012/08/headphones5101.jpg){:class="img-fluid"}
 
 **FACT**: The majority of gym goers now workout with headphones on. I don’t think
 it’s that most commercial gyms now only play top 40 hits, but that fact that
@@ -128,4 +128,4 @@ some new stuff for this playlist or if we like the same stuff THUMS
 UP\!
 
 
-![](http://www.jkand.com/metsys/cms/services/resize.php?o=landscape&s=500&c=80&src=blog&f=wp-content/uploads/2014/09/BeatsbyDre_LebronJames_Gym_0015-copy.jpg)
+![](http://www.jkand.com/metsys/cms/services/resize.php?o=landscape&s=500&c=80&src=blog&f=wp-content/uploads/2014/09/BeatsbyDre_LebronJames_Gym_0015-copy.jpg){:class="img-fluid"}

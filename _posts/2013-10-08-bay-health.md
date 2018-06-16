@@ -6,7 +6,7 @@ author: Mitchell
 layout: "post"
 ---
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/t0U7pzTJZ5M" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" style="max-width: 100%;" src="//www.youtube.com/embed/t0U7pzTJZ5M" frameborder="0" allowfullscreen></iframe>
 
 Guys weight 135lbs,
 Gals weight 95lbs.

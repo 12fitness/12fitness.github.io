@@ -46,7 +46,7 @@ Good Luck\!\!\!
 
 Here is a video of me doing the
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FM2bJlAKeek" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" style="max-width: 100%;" src="https://www.youtube.com/embed/FM2bJlAKeek" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br/>
 
 ### Circuit 12.1
@@ -97,7 +97,7 @@ Front Lat Pulldown| 3X8| 3X9| 3X10| 3X11| 3X12
 Standing Ez-bar curl| 3X8| 3X9| 3X10| 3X11| 3X12
 Seated alt. dumbbell curl| 3X8| 3X9| 3X10| 3X11| 3X12
 Machine crunches|  4X8| 4X9| 4X10| 4X11| 4X12
-{:style="width:100%;"}
+{:style="width:100%;min-width:600px;"}
 
 <br/>
 
@@ -113,7 +113,7 @@ Ez-Bar upright row| 3X8| 3X9| 3X10| 3X11| 3X12
 Dumbbell lateral raises| 3X8| 3X9| 3X10| 3X11| 3X12
 Skull crushers | 3X8| 3X9| 3X10| 3X11| 3X12
 Seated overhead dumbbell ext.| 3X8| 3X9| 3X10| 3X11| 3X12
-{:style="width:100%;"}
+{:style="width:100%;min-width:600px;"}
 
 <br/>
 
@@ -127,7 +127,7 @@ Leg Extensions| 3X8| 3X9| 3X10 | 3X11| 3X12
 Romanian Dead Lift| 3X8| 3X9| 3X10| 3X11| 3X12
 Lying leg Curls| 3X8| 3X9| 3X10| 3X11| 3X12
 Standing Calf Raises| 3X8| 3X9| 3X10| 3X11| 3X12
-{:style="width:100%;"}
+{:style="width:100%;min-width:600px;"}
 
 <br/>
 
@@ -155,7 +155,7 @@ Leg Extensions | 205lbs
 Romanian Dead Lift | 250lbs
 Lying leg Curls | 185lbs
 Standing Calf Raises | 250lbs
-{:style="width:100%;"}
+{:style="width:100%;min-width:600px;"}
 
 Choose weights for your 1st workout such that you reach positive muscle
 failure by the rep listed. If you can do more than 8 reps with a given
@@ -180,7 +180,7 @@ Neutral grip pull downs| 3 | 8,8,8
 Romanian Dead lift | 4 | 10,6,6,10\>
 Single Leg Curls| 4| 10,6,6,10\>
 Donkey calf raises| 4| 15,15,15,15
-{:style="width:100%;"}
+{:style="width:100%;min-width:600px;"}
 
 <br/>
 
@@ -197,7 +197,7 @@ Close Grip bench press| 4 | 12,6,6,10\>
 Weighted Dips| 3 | 6,6,10
 cable kickbacks | 3 | 10,10,10
 weighted decline bench crunch | 4 | 15,15,15,15
-{:style="width:100%;"}
+{:style="width:100%;min-width:600px;"}
 
 <br/>
 
@@ -210,7 +210,7 @@ Smith Machine squats|5|12,6,6,8,8
 Walking Lunges|3|10 each leg
 Single leg extension|3|10,10,10\>
 Donkey calf raise|4|15,15,15,15
-{:style="width:100%;"}
+{:style="width:100%;min-width:600px;"}
 
 <br/>
 
@@ -226,7 +226,7 @@ Ez-bar preacher curl|4|10,6,6,10\>
 2 arm high cable curl|3|10,10,10
 standing 1 arm cable curl|3|6,6,10\>
 weighted decline bench crunch|4|15,15,15,15
-{:style="width:100%;"}
+{:style="width:100%;min-width:600px;"}
 
 <br/>
 

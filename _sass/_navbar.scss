@@ -116,3 +116,9 @@
     }
   }
 }
+// For Page to move down.
+@media only screen and (max-width: 991px) {
+    .page-content {
+        margin-top: 75px;
+    }
+}
